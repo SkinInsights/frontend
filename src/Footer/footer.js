@@ -1,6 +1,7 @@
 import React from 'react'
 import './footer.css'
 import { SocialIcon } from 'react-social-icons'
+
 const footer = () => {
   return (
     <footer class="footer">
@@ -20,7 +21,7 @@ const footer = () => {
       <div class="footer-center col-md-4 col-sm-6">
         <div>
           <i class="fa fa-map-marker"></i>
-          <p><span> Atal Bihari Vajpayee Indian Institue of Information Technology</span> Gwalior, India</p>
+          <p><span> Atal Bihari Vajpayee Indian Institute of Information Technology</span> Gwalior, India</p>
         </div>
         <div>
           <i class="fa fa-phone"></i>
@@ -28,11 +29,11 @@ const footer = () => {
         </div>
         <div>
           <i class="fa fa-envelope"></i>
-          <p><a href="#"> office@company.com</a></p>
+          <p><a href="#"> office@skininsights.com</a></p>
         </div>
       </div>
       <div class="footer-right col-md-4 col-sm-6">
-        <h2> Company<span> logo</span></h2>
+      <img src='../assets/logo.png' alt="logo"/>
         <p class="menu">
           <a href="#"> Home</a> |
           <a href="#"> About</a> |
