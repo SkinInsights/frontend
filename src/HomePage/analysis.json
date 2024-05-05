@@ -1,0 +1,69 @@
+{
+    "analysis": [
+      {
+        "probability_range": [0, 0.1],
+        "summary": "Very low probability of skin cancer",
+        "advice": "The analysis indicates a very low probability of skin cancer. Continue regular skin checks and maintain a healthy skincare routine.",
+        "next_steps": "It's still important to perform regular skin checks and seek medical advice if any unusual changes occur.",
+        "resources": [
+          {
+            "title": "Skin Cancer Prevention",
+            "url": "https://www.cancer.org/cancer/skin-cancer/prevention-and-early-detection.html"
+          },
+          {
+            "title": "How to Perform a Skin Self-Exam",
+            "url": "https://www.aad.org/public/diseases/skin-cancer/self-exam"
+          }
+        ]
+      },
+      {
+        "probability_range": [0.1, 0.5],
+        "summary": "Low to moderate probability of skin cancer",
+        "advice": "The analysis indicates a low to moderate probability of skin cancer. Consider consulting a dermatologist for further evaluation.",
+        "next_steps": "Schedule an appointment with a dermatologist for a thorough examination.",
+        "resources": [
+          {
+            "title": "Signs and Symptoms of Skin Cancer",
+            "url": "https://www.skincancer.org/early-detection/symptoms/"
+          },
+          {
+            "title": "Find a Dermatologist",
+            "url": "https://find-a-derm.aad.org/"
+          }
+        ]
+      },
+      {
+        "probability_range": [0.5, 0.9],
+        "summary": "Moderate to high probability of skin cancer",
+        "advice": "The analysis indicates a moderate to high probability of skin cancer. It is strongly recommended to consult a dermatologist for further tests and a comprehensive evaluation.",
+        "next_steps": "Seek immediate medical advice and consider a biopsy or other diagnostic tests.",
+        "resources": [
+          {
+            "title": "Types of Skin Cancer",
+            "url": "https://www.skincancer.org/skin-cancer-information/types-of-skin-cancer/"
+          },
+          {
+            "title": "How to Prepare for a Skin Cancer Screening",
+            "url": "https://www.aad.org/public/diseases/skin-cancer/screening"
+          }
+        ]
+      },
+      {
+        "probability_range": [0.9, 1],
+        "summary": "High probability of skin cancer",
+        "advice": "The analysis indicates a high probability of skin cancer. It is crucial to consult a dermatologist or oncologist immediately for comprehensive diagnosis and treatment.",
+        "next_steps": "Seek immediate medical advice and follow recommended treatment plans.",
+        "resources": [
+          {
+            "title": "Understanding Skin Cancer Treatments",
+            "url": "https://www.cancer.org/cancer/skin-cancer/treatment.html"
+          },
+          {
+            "title": "Support Groups for Cancer Patients",
+            "url": "https://www.cancer.org/treatment/support-programs-and-services.html"
+          }
+        ]
+      }
+    ]
+  }
+  
